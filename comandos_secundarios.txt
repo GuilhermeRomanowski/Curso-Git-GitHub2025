@@ -1,3 +1,6 @@
 Esse arquivo contém comandos secundários de Git.
 - Primeiro comando
 - Segundo comando
+
+# Comandos Genericos
+Mais comandos
