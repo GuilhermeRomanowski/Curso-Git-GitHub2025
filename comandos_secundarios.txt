@@ -4,3 +4,5 @@ Esse arquivo contém comandos secundários de Git.
 
 # Comandos Genericos
 Mais comandos
+
+outros comandos
