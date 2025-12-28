@@ -2,7 +2,6 @@
 
 Fazendo curso iniciante para aprender a trabalhar com versionamento de código e repositórios remotos com GitHub. Utilizando blocos de notas juntamente com Readme. Sempre criar uma branch secundária e não trabalhar diretamente na main.
 
-
 Testanto nova alteração com VSCode.
 
 Fazendo novas alterações no VSCode, para primeira manutenção utilizando fluxo de trabalho conforme as branchs:
@@ -54,3 +53,14 @@ Testando agora arquivos em .py ('Hello World')
 11. excluir <nova_branch> origin
 12. git checkout main
 13. git branch -D <nova_branch>
+
+## Documentação para tipos de branchs
+1. docs: apenas mudanças de documentação;
+2. feat: uma nova funcionalidade;
+3. fix: a correção de um bug;
+4. perf: mudança de código focada em melhorar performance;
+5. refactor: mudança de código que não adiciona uma funcionalidade e também não corrigi um bug;
+6. style: mudanças no código que não afetam seu significado (espaço em branco, formatação, ponto e vírgula, etc);
+7. test: adicionar ou corrigir testes.
+
+Fonte: (https://medium.com/prolog-app/nossos-padr%C3%B5es-de-nomenclatura-para-branches-e-commits-fade8fd17106)
