@@ -5,8 +5,16 @@ Fazendo curso iniciante para aprender a trabalhar com versionamento de código e
 
 Testanto nova alteração com VSCode.
 
+Fazendo novas alterações no VSCode, para primeira manutenção utilizando fluxo de trabalho conforme as branchs:
+Main: Ambiente de produção
+Develop: Ambiente de desenvolvimento (testar antes de fazer inclusão diretamente na Main)
+Docs/Readme: Seguindo padrão de trabalho informando que essa branch será feita para alterar a documentação do arquivo Readme.
+
+MAIN -> DEVELOP -> DOCS/README
+
 Testando agora arquivos em .py ('Hello World')
 
+--------------------------------------------------------------
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
