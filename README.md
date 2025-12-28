@@ -5,6 +5,8 @@ Fazendo curso iniciante para aprender a trabalhar com versionamento de código e
 
 Testanto nova alteração com VSCode.
 
+Testando agora arquivos em .py ('Hello World')
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
