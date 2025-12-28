@@ -12,7 +12,9 @@ Docs/Readme: Seguindo padrão de trabalho informando que essa branch será feita
 
 MAIN -> DEVELOP -> DOCS/README
 
+Testando agora arquivos em .py ('Hello World')
 
+--------------------------------------------------------------
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
